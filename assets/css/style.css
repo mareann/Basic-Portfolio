@@ -1,0 +1,19 @@
+
+.topnav {
+	display: inline;
+}
+
+ul.topnav li {
+	float: right;
+	list-style: none;
+	margin-right:2em;
+}
+
+ul.topnav#topname li {
+	clear: both;
+	float: left;
+}
+
+topnav#topname li {
+	background-color: #4aaaa5;
+}
